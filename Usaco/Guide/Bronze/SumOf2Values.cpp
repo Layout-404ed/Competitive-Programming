@@ -2,7 +2,6 @@
 // time complexity: O(n log n)
 // i/o: io
 #include "bits/stdc++.h"
-#include <algorithm>
 using namespace std;
 using ll = long long;
 template<typename T>
